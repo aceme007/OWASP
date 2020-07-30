@@ -1,1 +1,14 @@
+OWASP - open web application security project
+* dedicated platform for web security
 
+OWASP Top 10 (2017)
+- Injection : SQL, NoSQL, LDAP
+- Broken Authentication : application functions related to auth are often implemented incorrectly
+- Sensistive Data Exposure : many APIs don't protect data (credit card fraud)
+- XML External Entities (XXE) : older/poorly configured xml processors (file URI handlers)
+- Broken Access Control : unauth access
+- Security Misconfiguration : insecure default configurations
+- Cross-Site Scription (XSS) : allows attacker to excute script in user's browser
+- Insecure Deserialization : remote code execution, replay attacks
+- Using components with Known Vulnerability
+- Insufficient logging & monitoring
