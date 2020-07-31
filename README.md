@@ -1,7 +1,6 @@
 # OWASP
-tldr for OWASP course - Udemy
 
-Complete guide to OWASP top 10
+Complete guide to OWASP top 10 (Udemy Course)
 
 Course objective:
 
@@ -11,3 +10,5 @@ Course objective:
 4) Countermeasures of the threats
 
 The course include the practical guide on DVWA to understand the ins and outs.
+
+DVWA Labs: https://hub.docker.com/r/vulnerables/web-dvwa/
