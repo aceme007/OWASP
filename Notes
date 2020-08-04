@@ -12,7 +12,7 @@ OWASP Top 10 (2017)
   - OS Command Injection
   - XPath Injection (Auth bypass)
 - Broken Authentication : application functions related to auth are often implemented incorrectly
-- Sensistive Data Exposure : many APIs don't protect data (credit card fraud)
+- Sensistive Data Exposure : many APIs don't protect data (credit card fraud), SSL for data in-transit
 - XML External Entities (XXE) : older/poorly configured xml processors (file URI handlers)
 - Broken Access Control : unauth access
 - Security Misconfiguration : insecure default configurations
