@@ -12,3 +12,6 @@ Course objective:
 The course include the practical guide on DVWA to understand the ins and outs.
 
 DVWA Labs: https://hub.docker.com/r/vulnerables/web-dvwa/
+
+Helpful links
+* [hacker101](https://www.hacker101.com/videos)
