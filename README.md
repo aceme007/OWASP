@@ -2,7 +2,7 @@
 
 Complete guide to OWASP top 10 (Udemy Course)
 
-Course objective:
+## Course objective:
 
 1) All those 10 threats
 2) The impact of the threat
@@ -11,7 +11,7 @@ Course objective:
 
 The course include the practical guide on DVWA to understand the ins and outs.
 
-DVWA Labs: https://hub.docker.com/r/vulnerables/web-dvwa/
+DVWA Lab (docker): https://hub.docker.com/r/vulnerables/web-dvwa/
 
-Helpful links
-* [hacker101](https://www.hacker101.com/videos)
+## Helpful links
+* [hacker101 videos](https://www.hacker101.com/videos)
